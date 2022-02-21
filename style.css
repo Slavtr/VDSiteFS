@@ -103,7 +103,7 @@ footer nav a{
     background-color: #888B79;
     width: 97vw;
     margin-top: 0vw;
-    font-size: 4vw;
+    font-size: 2vw;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
@@ -119,7 +119,7 @@ footer nav a{
     background-color: rgba(112, 215, 123, 0.7);
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
-    font-size: 3vw;
+    font-size: 1.5vw;
 }
 .News{
     display: flex;
@@ -131,7 +131,7 @@ footer nav a{
     background-color: #888B79;
     width: 97vw;
     margin-top: 0vw;
-    font-size: 4vw;
+    font-size: 2vw;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
@@ -152,12 +152,12 @@ footer nav a{
     color: #F95A75;
     font-weight: 400;
     text-transform: uppercase;
-    font-size: 4vw;
+    font-size: 2vw;
     margin-bottom: 0vh;
     margin-top: 0vw;
 }
 .Topic p{
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
-    font-size: 3vw;
+    font-size: 1.5vw;
 }
